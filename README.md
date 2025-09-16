@@ -5,6 +5,8 @@ CoHoMa: Upgrade Jetson
 Nom du professeur encadrant :
 Christophe Bares
 
+Discord link: https://discord.gg/MqkvXKNf
+
 Thème(s) :
 
 Intelligence artificielle
